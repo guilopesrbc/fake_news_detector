@@ -1,0 +1,6 @@
+matplotlib
+fancyimpute
+pandas
+numpy
+faiss-cpu
+sentence-transformers
